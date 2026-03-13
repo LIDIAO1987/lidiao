@@ -1,0 +1,5 @@
+{
+  "name": "Texas Hold'em Classic",
+  "description": "A classic 5-player Texas Hold'em poker game with AI opponents and betting system.",
+  "requestFramePermissions": []
+}
